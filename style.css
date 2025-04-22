@@ -1,0 +1,29 @@
+nav ul {
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  background-color: rgb(145, 198, 199);
+}
+nav a:hover {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  background-color: aqua;
+}
+
+h2 {
+  color: black;
+  background-color: aquamarine;
+}
+
+h3 {
+  color: black;
+  background-color: lightblue;
+}
+
+/*# sourceMappingURL=style.css.map */

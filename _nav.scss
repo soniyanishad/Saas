@@ -1,0 +1,15 @@
+nav{
+    ul{
+        list-style: none;
+    }
+    li{
+        display: inline-block;
+        
+    }
+    a{
+        background-color: rgb(145, 198, 199);
+        &:hover{
+            background-color: white;
+        }
+    }
+}

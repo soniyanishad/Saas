@@ -1,0 +1,17 @@
+@use "variables" as *; 
+@forward "nav";
+
+
+h1{
+    color: $demo-color;
+    background-color: aqua;
+}
+h2{
+    color: $demo-color;
+    background-color:aquamarine;
+}
+h3{
+    color: $demo-color;
+    background-color: lightblue;
+}
+
